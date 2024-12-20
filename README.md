@@ -1,3 +1,14 @@
+command :
+
+django-admin startproject blog
+
+cd blog
+
+python3 manage.py startapp blogs
+
+python3 manage.py runserver
+
+
 ![image](https://github.com/user-attachments/assets/1da6b3ae-9c95-49a6-9f44-d0c81cc1ea86)
 
 
